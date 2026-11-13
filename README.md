@@ -15,6 +15,15 @@ The model associates 64-bit input patterns (representing English letters `A–Z`
 * **Pandas** (Dataset ingestion & evaluation logging)
 * **Matplotlib** (Accuracy visualization)
 
+## Results & Performance
+| 0% Noise | 5% Noise |
+| :---: | :---: |
+| ![0%](noise_0.png) | ![5%](noise_5.png) |
+
+| 10% Noise | 20% Noise |
+| :---: | :---: |
+| ![10%](noise_10.png) | ![20%](noise_20.png) |  
+
 ## How to Run
 1. Ensure `Letters_A-Z_BAM_Model_Data.csv` is in the same directory as the script.
 2. Install dependencies:
